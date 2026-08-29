@@ -25,7 +25,7 @@
     {
       "binding": "DB",
       "database_name": "sub-store-cloudflare",
-      "database_id": "00000000-0000-0000-0000-000000000000"
+      "database_id": "c5bbc10b-ddfd-44d3-ac61-b9d4dd983575"
     }
   ],
   "vars": {
